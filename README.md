@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/innowatio/iwwa-lambda-readings-to-mongodb.svg?branch=master)](https://travis-ci.org/innowatio/iwwa-lambda-readings-to-mongodb)
-[![Dependency Status](https://david-dm.org/innowatio/iwwa-lambda-readings-to-mongodb.svg)](https://david-dm.org/innowatio/iwwa-lambda-readings-to-mongodb)
-[![devDependency Status](https://david-dm.org/innowatio/iwwa-lambda-readings-to-mongodb/dev-status.svg)](https://david-dm.org/innowatio/iwwa-lambda-readings-to-mongodb#info=devDependencies)
+[![Build Status](https://travis-ci.org/innowatio/iwwa-lambda-pod-readings-to-mongodb.svg?branch=master)](https://travis-ci.org/innowatio/iwwa-lambda-pod-readings-to-mongodb)
+[![Dependency Status](https://david-dm.org/innowatio/iwwa-lambda-pod-readings-to-mongodb.svg)](https://david-dm.org/innowatio/iwwa-lambda-pod-readings-to-mongodb)
+[![devDependency Status](https://david-dm.org/innowatio/iwwa-lambda-pod-readings-to-mongodb/dev-status.svg)](https://david-dm.org/innowatio/iwwa-lambda-pod-readings-to-mongodb#info=devDependencies)
 
-# iwwa-lambda-readings-to-mongodb
+# iwwa-lambda-pod-readings-to-mongodb
 
 Takes events from AWS Kinesis and builds an alarms materialized view on
 MongoDB.

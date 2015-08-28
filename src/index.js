@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 dotenv.load();
 
 var Alarms = new Collection({
-    name: "readings",
+    name: "pod-readings",
     mongodbUrl: process.env.MONGODB_URL,
     mongodbCollectionName: process.env.MONGODB_COLLECTION_NAME
 });

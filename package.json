@@ -1,11 +1,11 @@
 {
-  "name": "iwwa-lambda-readings-to-mongodb",
+  "name": "iwwa-lambda-pod-readings-to-mongodb",
   "version": "1.0.0",
-  "description": "Projects reading-related events from AWS Kinesis into a mongodb view",
+  "description": "Projects pod-reading-related events from AWS Kinesis into a mongodb view",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/innowation/iwwa-lambda-readings-to-mongodb.git"
+    "url": "https://github.com/innowation/iwwa-lambda-pod-readings-to-mongodb.git"
   },
   "dependencies": {
     "dotenv": "^1.2.0",
